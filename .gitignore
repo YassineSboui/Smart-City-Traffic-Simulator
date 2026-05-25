@@ -1,0 +1,10 @@
+smartcross
+results.csv
+benchmark.png
+benchmark.txt
+smartcross_live.txt
+smartcross_live.tmp
+smartcross_events.txt
+*.o
+__pycache__/
+*.pyc
